@@ -1,0 +1,13 @@
+body{
+    text-align:center;
+   background:linear-gradient(pink 10%, blue 90%);
+    background-repeat:no-repeat;
+  }
+  H1{
+    text-shadow:2px 1px;
+    font-size:20px;
+  }
+  img{
+    border-radius:50%;
+      width:350px;
+  }
